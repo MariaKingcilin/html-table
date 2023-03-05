@@ -1,0 +1,19 @@
+body{
+	background-color:lightgreen;
+	}
+table,th,td{
+	border:2px solid black;
+	border-collapse:collapse;
+	width:20%;
+	height:20px;
+	text-align:center;
+	}
+caption{
+	background-color:white;
+	border:2px solid black;
+	border-collapse:collapse;
+	height:40px;
+	}
+th,td{
+	padding:20px;
+	}
